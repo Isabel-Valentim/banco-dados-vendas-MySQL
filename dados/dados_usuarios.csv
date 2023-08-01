@@ -1,0 +1,69 @@
+id_usuarios,cpf,nome,genero,data_nascimento,ddi,ddd,celular,email,pais,cidade,tipo_endereco,cep,bairro,endereco,numero,data_cadastro
+1,12345678901,Ana Silva,Feminino,1990-05-15,55,11,912345678,ana.silva@gmail.com,Brasil,São Paulo,Casa,0123456,Jardins,Rua Oscar Freire,1001,2023-07-30 08:00:00
+2,98765432109,Carlos Souza,Masculino,1985-09-22,55,21,998765432,carlos.souza@hotmail.com,Brasil,Rio de Janeiro,Apartamento,6543210,Ipanema,Avenida Vieira Souto,567,2023-07-30 09:15:00
+3,54321678904,Marina Santos,Feminino,1998-02-10,55,31,987654321,marina.santos@yahoo.com,Brasil,Belo Horizonte,Casa,9876543,Savassi,Avenida Getúlio Vargas,890,2023-07-30 10:30:00
+4,67890543201,Lucas Oliveira,Masculino,1995-11-28,55,51,876543210,lucas.oliveira@gmail.com,Brasil,Porto Alegre,Apartamento,1098765,Moinhos de Vento,Rua Padre Chagas,432,2023-07-30 11:45:00
+5,21098765403,Julia Pereira,Feminino,1992-07-05,55,71,876543210,julia.pereira@hotmail.com,Brasil,Salvador,Apartamento,8765432,Itaigara,Rua das Hortênsias,987,2023-07-30 13:00:00
+6,67543210908,Pedro Rodrigues,Masculino,1988-03-12,55,81,765432109,pedro.rodrigues@yahoo.com,Brasil,Recife,Casa,5432109,Boa Viagem,Avenida Boa Viagem,654,2023-07-30 14:15:00
+7,98760543201,Maria Oliveira,Feminino,2000-01-20,55,41,987605432,maria.oliveira@gmail.com,Brasil,Fortaleza,Casa,4321098,Aldeota,Avenida Beira Mar,321,2023-07-30 15:30:00
+8,32109876504,Fernando Mendes,Masculino,1983-06-18,55,61,678905432,fernando.mendes@hotmail.com,Brasil,Brasília,Apartamento,3210987,Asa Sul,Quadra 301,996,2023-07-30 16:45:00
+9,67890543009,Beatriz Lima,Feminino,1993-09-25,55,92,210987654,beatriz.lima@yahoo.com,Brasil,Manaus,Apartamento,6543210,Dom Pedro,Rua Recife,876,2023-07-30 18:00:00
+10,21098760504,Gabriel Alves,Masculino,1997-12-07,55,84,765432109,gabriel.alves@gmail.com,Brasil,Belém,Casa,1098765,Nazaré,Travessa Dom Romualdo de Seixas,543,2023-07-30 19:15:00
+11,54321678098,Sofia Rodrigues,Feminino,1986-08-29,55,62,543216780,sofia.rodrigues@hotmail.com,Brasil,Goiania,Casa,8765432,Setor Bueno,Rua T-37,123,2023-07-30 20:30:00
+12,67890123405,Rafael Ferreira,Masculino,1989-04-17,55,62,987654321,rafael.ferreira@yahoo.com,Brasil,Curitiba,Apartamento,2109876,Batel,Avenida do Batel,321,2023-07-30 21:45:00
+13,98760543102,Larissa Gomes,Feminino,1994-10-03,55,31,543210987,larissa.gomes@gmail.com,Brasil,Florianópolis,Casa,5432109,Trindade,Rua Lauro Linhares,567,2023-07-30 23:00:00
+14,54321678901,Rodrigo Santos,Masculino,1996-11-11,55,31,210987654,rodrigo.santos@hotmail.com,Brasil,Porto Alegre,Casa,8765432,Moinhos de Vento,Rua Padre Chagas,987,2023-07-31 08:00:00
+15,10987654304,Sophia Almeida,Feminino,1995-02-18,55,51,543210987,sophia.almeida@yahoo.com,Brasil,Campinas,Apartamento,3210987,Cambuí,Rua General Osório,210,2023-07-31 09:15:00
+16,21098760509,Luiz Costa,Masculino,1984-12-14,55,81,321098765,luiz.costa@gmail.com,Brasil,Sorocaba,Apartamento,1098765,Centro,Avenida Barão de Tatuí,996,2023-07-31 10:30:00
+17,54321678003,Leticia Barbosa,Feminino,1987-07-22,55,62,678905432,leticia.barbosa@hotmail.com,Brasil,Joinville,Casa,8765432,America,Rua das Palmeiras,432,2023-07-31 11:45:00
+18,76543210901,Enzo Martins,Masculino,1999-03-27,55,47,987605432,enzo.martins@yahoo.com,Brasil,Blumenau,Casa,5432109,Vila Nova,Rua 15 de Novembro,543,2023-07-31 13:00:00
+19,21098765404,Helena Oliveira,Feminino,1991-06-10,55,31,210987654,helena.oliveira@gmail.com,Brasil,Florianópolis,Apartamento,3210987,Trindade,Rua Desembargador Vitor Lima,876,2023-07-31 14:15:00
+20,76543210901,Rafaela Carvalho,Feminino,1998-09-05,55,47,765432109,rafaela.carvalho@hotmail.com,Brasil,Goiânia,Apartamento,2109876,Setor Bueno,Avenida T-4,1098,2023-07-31 15:30:00
+21,54321678004,Gustavo Fernandes,Masculino,1983-11-25,55,62,543216780,gustavo.fernandes@yahoo.com,Brasil,Cuiabá,Casa,5432109,Centro,Avenida Getúlio Vargas,987,2023-07-31 16:45:00
+22,76543210102,Manuela Silva,Feminino,1990-08-08,55,62,987654321,manuela.silva@gmail.com,Brasil,Porto Velho,Casa,8765432,Centro,Avenida Sete de Setembro,210,2023-07-31 18:00:00
+23,54321678009,Rafael Souza,Masculino,1992-05-02,55,63,543216780,rafael.souza@hotmail.com,Brasil,Palmas,Casa,7654321,Centro,Avenida JK,765,2023-07-31 19:15:00
+24,54321098704,Bruna Carvalho,Feminino,1997-04-30,55,27,543210987,bruna.carvalho@gmail.com,Brasil,Vitória,Apartamento,1098765,Enseada do Suá,Avenida Desembargador Dermeval Lyrio,543,2023-07-31 20:30:00
+25,98765432109,Felipe Rodrigues,Masculino,1987-02-17,55,84,987654321,felipe.rodrigues@hotmail.com,Brasil,Natal,Apartamento,6543210,Candelária,Rua Mossoró,210,2023-07-31 21:45:00
+26,10987654301,Alice Gomes,Feminino,1993-11-19,55,83,543210987,alice.gomes@yahoo.com,Brasil,João Pessoa,Apartamento,7654321,Manaíra,Avenida Epitácio Pessoa,987,2023-07-31 23:00:00
+27,54321098701,Gabriel Almeida,Masculino,1991-12-01,55,79,987605432,gabriel.almeida@gmail.com,Brasil,Aracaju,Casa,3210987,Centro,Rua São Cristóvão,1098,2023-08-01 08:00:00
+28,21098765409,Lara Ferreira,Feminino,1999-09-07,55,95,321098765,lara.ferreira@yahoo.com,Brasil,Boa Vista,Casa,1098765,Centro,Avenida Ville Roy,543,2023-08-01 09:15:00
+29,54321098704,Vitor Lima,Masculino,1996-10-12,55,83,543210987,vitor.lima@hotmail.com,Brasil,Porto Seguro,Casa,6543210,Centro,Rua do Mangue,876,2023-08-01 10:30:00
+30,54321678009,Melissa Silva,Feminino,1984-07-26,55,71,543216780,melissa.silva@yahoo.com,Brasil,Praia do Forte,Apartamento,3210987,Centro,Rua do Forte,10,2023-08-01 11:45:00
+31,76543210901,Bruno Oliveira,Masculino,1989-03-18,55,11,912345678,bruno.oliveira@gmail.com,Brasil,São Paulo,Casa,0123456,Jardins,Rua Oscar Freire,100,2023-08-01 13:00:00
+32,54321098704,Larissa Costa,Feminino,1992-08-25,55,21,998765432,larissa.costa@hotmail.com,Brasil,Rio de Janeiro,Apartamento,6543210,Ipanema,Avenida Vieira Souto,567,2023-08-01 14:15:00
+33,98760543201,Matheus Silva,Masculino,1998-05-30,55,31,987654321,matheus.silva@yahoo.com,Brasil,Belo Horizonte,Casa,9876543,Savassi,Avenida Getúlio Vargas,890,2023-08-01 15:30:00
+34,54321678901,Isabela Ferreira,Feminino,1995-12-22,55,51,876543210,isabela.ferreira@gmail.com,Brasil,Porto Alegre,Apartamento,1098765,Moinhos de Vento,Rua Padre Chagas,432,2023-08-01 16:45:00
+35,98765432109,Felipe Santos,Masculino,1991-07-09,55,71,876543210,felipe.santos@hotmail.com,Brasil,Salvador,Apartamento,8765432,Itaigara,Rua das Hortênsias,987,2023-08-01 18:00:00
+36,54321098704,Eduarda Lima,Feminino,1993-09-15,55,81,765432109,eduarda.lima@yahoo.com,Brasil,Recife,Casa,5432109,Boa Viagem,Avenida Boa Viagem,654,2023-08-01 19:15:00
+37,21098765401,Enzo Barbosa,Masculino,1990-01-03,55,41,987605432,enzo.barbosa@gmail.com,Brasil,Fortaleza,Casa,4321098,Aldeota,Avenida Beira Mar,321,2023-08-01 20:30:00
+38,76543210102,Lorena Gomes,Feminino,1994-11-11,55,61,678905432,lorena.gomes@hotmail.com,Brasil,Brasília,Apartamento,3210987,Asa Sul,Quadra 301,66,2023-08-01 21:45:00
+39,21098765404,Guilherme Almeida,Masculino,1988-04-27,55,92,210987654,guilherme.almeida@yahoo.com,Brasil,Manaus,Apartamento,6543210,Dom Pedro,Rua Recife,876,2023-08-01 23:00:00
+40,54321678001,Mariana Oliveira,Feminino,1996-06-05,55,84,765432109,mariana.oliveira@gmail.com,Brasil,Belém,Casa,1098765,Nazaré,Travessa Dom Romualdo de Seixas,543,2023-08-02 08:00:00
+41,98760543102,Gustavo Silva,Masculino,1985-02-20,55,62,543216780,gustavo.silva@hotmail.com,Brasil,Goiania,Casa,8765432,Setor Bueno,Rua T-37,123,2023-08-02 09:15:00
+42,54321098709,Sophia Fernandes,Feminino,1989-12-17,55,62,987654321,sophia.fernandes@yahoo.com,Brasil,Curitiba,Apartamento,2109876,Batel,Avenida do Batel,321,2023-08-02 10:30:00
+43,76543210104,Eduardo Rodrigues,Masculino,1997-09-22,55,31,543210987,eduardo.rodrigues@gmail.com,Brasil,Florianópolis,Casa,5432109,Trindade,Rua Lauro Linhares,567,2023-08-02 11:45:00
+44,54321678901,Luana Santos,Feminino,1995-10-30,55,31,210987654,luana.santos@hotmail.com,Brasil,Porto Alegre,Casa,8765432,Moinhos de Vento,Rua Padre Chagas,987,2023-08-02 13:00:00
+45,10987654304,Gabriel Oliveira,Masculino,1992-05-18,55,51,543210987,gabriel.oliveira@yahoo.com,Brasil,Campinas,Apartamento,3210987,Cambuí,Rua General Osório,210,2023-08-02 14:15:00
+46,21098760509,Luiza Almeida,Feminino,1983-08-14,55,81,321098765,luiza.almeida@gmail.com,Brasil,Sorocaba,Apartamento,1098765,Centro,Avenida Barão de Tatuí,88,2023-08-02 15:30:00
+47,54321678003,João Barbosa,Masculino,1986-07-22,55,62,678905432,joao.barbosa@hotmail.com,Brasil,Joinville,Casa,8765432,America,Rua das Palmeiras,432,2023-08-02 16:45:00
+48,76543210901,Isadora Gomes,Feminino,1991-02-25,55,47,987605432,isadora.gomes@yahoo.com,Brasil,Blumenau,Casa,5432109,Vila Nova,Rua 15 de Novembro,543,2023-08-02 18:00:00
+49,21098765404,Ricardo Silva,Masculino,1993-09-10,55,31,210987654,ricardo.silva@gmail.com,Brasil,Florianópolis,Apartamento,3210987,Trindade,Rua Desembargador Vitor Lima,876,2023-08-02 19:15:00
+50,54321678009,Melissa Silva,Feminino,1984-07-26,55,71,876543210,melissa.silva@yahoo.com,Brasil,Praia do Forte,Apartamento,3210987,Rua do Forte,Rua do Sol,22,2023-08-01 11:45:00
+51,76543210901,Bruno Oliveira,Masculino,1989-03-18,55,11,912345678,bruno.oliveira@gmail.com,Brasil,São Paulo,Casa,0123456,Jardins,Rua Oscar Freire,1001,2023-08-01 13:00:00
+52,54321098704,Larissa Costa,Feminino,1992-08-25,55,21,998765432,larissa.costa@hotmail.com,Brasil,Rio de Janeiro,Apartamento,6543210,Ipanema,Avenida Vieira Souto,567,2023-08-01 14:15:00
+53,98760543201,Matheus Silva,Masculino,1998-05-30,55,31,987654321,matheus.silva@yahoo.com,Brasil,Belo Horizonte,Casa,9876543,Savassi,Avenida Getúlio Vargas,890,2023-08-01 15:30:00
+54,54321678901,Isabela Ferreira,Feminino,1995-12-22,55,51,876543210,isabela.ferreira@gmail.com,Brasil,Porto Alegre,Casa,8765432,Moinhos de Vento,Rua Padre Chagas,432,2023-08-01 16:45:00
+55,98765432109,Felipe Santos,Masculino,1991-07-09,55,71,876543210,felipe.santos@hotmail.com,Brasil,Salvador,Apartamento,8765432,Itaigara,Rua das Hortênsias,987,2023-08-01 18:00:00
+56,54321098704,Eduarda Lima,Feminino,1993-09-15,55,81,765432109,eduarda.lima@yahoo.com,Brasil,Recife,Casa,5432109,Boa Viagem,Avenida Boa Viagem,654,2023-08-01 19:15:00
+57,21098765401,Enzo Barbosa,Masculino,1990-01-03,55,41,987605432,enzo.barbosa@gmail.com,Brasil,Fortaleza,Casa,4321098,Aldeota,Avenida Beira Mar,321,2023-08-01 20:30:00
+58,76543210102,Lorena Gomes,Feminino,1994-11-11,55,61,678905432,lorean.gomes@hotmail.com,Brasil,Brasília,Apartamento,3210987,Asa Sul,Quadra 301,99,2023-08-01 21:45:00
+59,21098765404,Guilherme Almeida,Masculino,1988-04-27,55,92,210987654,guilherme.almeida@yahoo.com,Brasil,Manaus,Apartamento,6543210,Dom Pedro,Rua Recife,876,2023-08-01 23:00:00
+60,54321678001,Mariana Oliveira,Feminino,1996-06-05,55,84,987605432,mariana.oliveira@gmail.com,Brasil,Fortaleza,Casa,5432109,Boa Viagem,Avenida Boa Viagem,654,2023-08-02 08:00:00
+61,98760543102,Gustavo Silva,Masculino,1985-02-20,55,62,543216780,gustavo.silva@hotmail.com,Brasil,Goiania,Casa,8765432,Setor Bueno,Rua T-37,123,2023-08-02 09:15:00
+62,54321098709,Sophia Fernandes,Feminino,1989-12-17,55,62,987654321,sophia.fernandes@yahoo.com,Brasil,Curitiba,Apartamento,2109876,Batel,Avenida do Batel,321,2023-08-02 10:30:00
+63,76543210104,Eduardo Rodrigues,Masculino,1997-09-22,55,31,543210987,eduardo.rodrigues@gmail.com,Brasil,Florianópolis,Casa,5432109,Trindade,Rua Lauro Linhares,567,2023-08-02 11:45:00
+64,54321678901,Luana Santos,Feminino,1995-10-30,55,31,210987654,luana.santos@hotmail.com,Brasil,Porto Alegre,Casa,8765432,Moinhos de Vento,Rua Padre Chagas,987,2023-08-02 13:00:00
+65,10987654304,Gabriel Oliveira,Masculino,1992-05-18,55,51,543210987,gabriel.oliveira@yahoo.com,Brasil,Campinas,Apartamento,3210987,Cambuí,Rua General Osório,210,2023-08-02 14:15:00
+66,21098760509,Luiza Almeida,Feminino,1983-08-14,55,81,321098765,luiza.almeida@gmail.com,Brasil,Sorocaba,Apartamento,1098765,Centro,Avenida Barão de Tatuí,6,2023-08-02 15:30:00
+67,54321678003,João Barbosa,Masculino,1986-07-22,55,62,678905432,joao.barbosa@hotmail.com,Brasil,Joinville,Casa,8765432,America,Rua das Palmeiras,432,2023-08-02 16:45:00
+68,76543210901,Isadora Gomes,Feminino,1991-02-25,55,47,987605432,isadora.gomes@yahoo.com,Brasil,Blumenau,Casa,5432109,Vila Nova,Rua 15 de Novembro,543,2023-08-02 18:00:00

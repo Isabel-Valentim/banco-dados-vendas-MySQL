@@ -1,0 +1,101 @@
+id_produtos,nome,descricao,categoria,subcategoria,marca,cor,largura,altura,profundidade,peso,preco,tem_garantia,tipo_garantia,meses_garantia,data_cadastro,status
+1,Smartphone Galaxy S21,Smartphone avançado com excelente desempenho.,Eletrônicos,Celulares,Samsung,Preto,7.9,16.2,0.8,0.19,1899.99,S,-,-,2023-07-30 10:15:00,ativo
+2,Notebook Inspiron 5000,Notebook com processador Intel Core i5 e tela de 15.6 polegadas.,Informática,Notebooks,Dell,Cinza,35.8,24.7,2.1,1.95,2799.00,S,3 meses,-,2023-07-30 11:30:00,ativo
+3,Fones de Ouvido Bluetooth,Fones de ouvido sem fio com cancelamento de ruído.,Eletrônicos,Áudio,Sony,Preto,5.5,5.5,3.2,0.05,149.90,S,-,-,2023-07-30 14:45:00,ativo
+4,Camiseta Polo Masculina,Camiseta polo de algodão pima com design clássico.,Moda,Roupas,Tommy Hilfiger,Azul,21.0,26.5,1.0,0.25,79.99,S,-,-,2023-07-30 16:20:00,ativo
+5,Smart TV LED 55,Smart TV com resolução 4K e tecnologia HDR.,Eletrônicos,TVs,Sony,Prata,122.6,78.4,24.3,15.8,2599.00,S,1 ano,12,2023-07-30 18:05:00,ativo
+6,Mouse Sem Fio,Mouse ergonômico sem fio com sensor óptico.,Informática,Acessórios,Logitech,Preto,6.3,10.2,3.8,0.12,59.90,S,-,-,2023-07-30 20:30:00,ativo
+7,Monitor LED 24,Monitor LED com resolução Full HD e tela de 24 polegadas.,Informática,Monitores,HP,Preto,55.0,33.0,5.5,3.9,799.00,S,2 anos,24,2023-07-30 22:15:00,ativo
+8,Teclado Mecânico RGB,Teclado mecânico com iluminação RGB personalizável.,Informática,Acessórios,Razer,Preto,44.8,13.0,3.5,1.15,349.00,S,-,-,2023-07-31 09:40:00,ativo
+9,Impressora Multifuncional,Impressora a jato de tinta com funções de impressão cópia e digitalização.,Informática,Impressoras,Epson,Branco,37.0,17.5,32.0,4.5,379.90,S,1 ano,12,2023-07-31 12:05:00,ativo
+10,Fritadeira Elétrica Airfryer,Fritadeira elétrica sem óleo com capacidade de 3 litros.,Eletrodomésticos,Eletroportáteis,Philips Walita,Preto,28.7,34.8,32.6,5.7,319.90,S,2 anos,24,2023-07-31 14:30:00,ativo
+11,Aspirador de Pó Vertical,Aspirador de pó sem fio com bateria recarregável.,Eletrodomésticos,Eletroportáteis,Dyson,Vermelho,25.0,124.5,22.0,3.0,899.00,S,1 ano,12,2023-07-31 16:45:00,ativo
+12,Chuveiro Elétrico Advanced,Chuveiro elétrico com controle de temperatura.,Casa e Decoração,Banheiro,Lorenzetti,Branco,22.5,8.8,11.8,0.75,139.90,S,6 meses,-,2023-07-31 19:20:00,ativo
+13,Panela de Pressão 6L,Panela de pressão de alumínio com capacidade para 6 litros.,Casa e Decoração,Cozinha,Tramontina,Prata,22.0,24.5,40.0,3.5,99.90,S,-,-,2023-07-31 21:35:00,ativo
+14,Conjunto de Talheres 24 Peças,Conjunto de talheres de aço inoxidável com 24 peças.,Casa e Decoração,Mesa e Bar,Cambridge,Prata,5.5,25.0,32.0,1.1,169.90,S,-,-,2023-07-31 23:50:00,ativo
+15,Bicicleta Mountain Bike,Bicicleta MTB com quadro de alumínio e suspensão dianteira.,Esportes e Lazer,Ciclismo,Caloi,Vermelho,73.0,105.0,17.5,12.8,1599.00,S,-,-,2023-08-01 09:10:00,ativo
+16,Tênis Esportivo Feminino,Tênis esportivo para corrida e atividades físicas.,Esportes e Lazer,Fitness e Musculação,Asics,Rosa,10.8,8.0,28.5,0.3,199.90,S,-,-,2023-08-01 11:25:00,ativo
+17,Bola de Futebol de Campo,Bola oficial de futebol de campo tamanho 5.,Esportes e Lazer,Futebol,Nike,Branco,22.0,22.0,22.0,0.4,59.90,S,-,-,2023-08-01 13:40:00,ativo
+18,Raquete de Tênis Profissional,Raquete de tênis de alto desempenho para jogadores profissionais.,Esportes e Lazer,Tênis,Wilson,Preto,29.0,69.0,2.5,0.28,359.00,S,-,-,2023-08-01 15:55:00,ativo
+19,Cadeira de Praia Dobrável,Cadeira de praia portátil e dobrável com apoio para copos.,Esportes e Lazer,Praia e Camping,Mor,Azul,58.0,67.0,62.0,2.0,89.90,S,-,-,2023-08-01 18:20:00,ativo
+20,Bola de Vôlei Oficial,Bola oficial de vôlei tamanho e peso regulamentados.,Esportes e Lazer,Vôlei,Mikasa,Amarelo,21.0,21.0,21.0,0.27,129.90,S,-,-,2023-08-01 20:35:00,ativo
+21,Escova de Cabelo Alisadora,Escova de cabelo elétrica para alisamento rápido.,Beleza e Saúde,Cabelos,Kemei,Rosa,5.5,27.0,3.0,0.38,49.90,S,-,-,2023-08-01 22:50:00,ativo
+22,Secador de Cabelo Profissional,Secador de cabelo com motor potente e diferentes configurações de calor.,Beleza e Saúde,Cabelos,Taiff,Branco,10.0,25.5,14.0,1.2,179.00,S,1 ano,12,2023-08-02 09:15:00,ativo
+23,Prancha Alisadora de Cabelo,Prancha alisadora com placas de cerâmica para cabelos lisos e brilhantes.,Beleza e Saúde,Cabelos,Philips,Rosa,3.5,28.0,10.0,0.42,119.90,S,2 anos,24,2023-08-02 11:30:00,ativo
+24,Kit Maquiagem Profissional,Kit de maquiagem com variedade de produtos para uso profissional.,Beleza e Saúde,Makeup,Mac,Multi,35.0,25.0,14.0,3.8,399.00,S,-,-,2023-08-02 13:45:00,ativo
+25,Perfume Feminino Eau de Parfum,Perfume feminino com fragrância duradoura.,Beleza e Saúde,Perfumaria,Dior,Amarelo,6.5,12.5,2.5,0.29,299.90,S,-,-,2023-08-02 16:00:00,ativo
+26,Barbeador Elétrico,Barbeador elétrico com lâminas de precisão.,Beleza e Saúde,Barbearia,Philips,Azul,4.5,15.0,7.5,0.16,89.90,S,-,-,2023-08-02 18:25:00,ativo
+27,Máscara Facial Hidratante,Máscara facial de hidratação com colágeno e vitaminas.,Beleza e Saúde,Cuidados com a Pele,Olay,Azul,11.0,15.0,2.0,0.08,19.90,S,-,-,2023-08-02 20:40:00,ativo
+28,Termômetro Digital Infravermelho,Termômetro digital infravermelho para medição de temperatura.,Beleza e Saúde,Saúde,Omron,Branco,5.0,15.0,3.0,0.1,59.90,S,3 meses,-,2023-08-02 22:55:00,ativo
+29,Purificador de Ar HEPA,Purificador de ar com filtro HEPA para remoção de impurezas.,Casa e Decoração,Eletroportáteis,Electrolux,Branco,26.5,37.8,22.5,2.8,299.00,S,1 ano,12,2023-08-03 09:20:00,ativo
+30,Aspirador de Pó Robô,Aspirador de pó robô com função de mapeamento e controle por aplicativo.,Casa e Decoração,Eletroportáteis,iRobot,Preto,34.2,9.3,33.6,3.4,1299.00,S,2 anos,24,2023-08-03 11:35:00,ativo
+31,Abajur de Mesa,Abajur de mesa com base de madeira e cúpula de tecido.,Casa e Decoração,Luminárias,Westwing,Marrom,20.0,40.0,20.0,0.8,79.90,S,-,-,2023-08-03 13:50:00,ativo
+32,Kit de Toalhas 8 Peças,Kit de toalhas de banho e rosto com 8 peças.,Casa e Decoração,Banheiro,Santista,Bege,30.0,50.0,3.0,2.4,139.90,S,-,-,2023-08-03 16:05:00,ativo
+33,Jogo de Lençol Queen,Lençol de cama queen size com fronhas e lençol de elástico.,Casa e Decoração,Cama e Enxoval,Buddemeyer,Verde,240.0,250.0,30.0,1.95,269.00,S,-,-,2023-08-03 18:30:00,ativo
+34,Conjunto de Panelas Antiaderentes,Conjunto de panelas antiaderentes com 7 peças.,Casa e Decoração,Cozinha,Tramontina,Vermelho,34.0,40.0,34.0,5.5,349.90,S,6 meses,-,2023-08-03 20:45:00,ativo
+35,Mesa de Jantar 6 Lugares,Mesa de jantar retangular com capacidade para 6 lugares.,Casa e Decoração,Móveis,Tok Stok,Marrom,150.0,75.0,90.0,35.0,999.00,S,-,-,2023-08-03 23:00:00,ativo
+36,Conjunto de Sofá Retrátil e Reclinável,Conjunto de sofá retrátil e reclinável com 3 lugares.,Casa e Decoração,Sala de Estar,Oppa,Cinza,211.0,88.0,96.0,84.0,2099.00,S,1 ano,12,2023-08-04 09:15:00,ativo
+37,Guarda-Roupas Casal com Espelho,Guarda-roupas com espaço amplo e espelho na porta central.,Casa e Decoração,Quarto,Tcil,Amarelo,180.0,220.0,50.0,150.0,1599.00,S,2 anos,24,2023-08-04 11:30:00,ativo
+38,Cadeira de Escritório Ergonômica,Cadeira de escritório com ajuste de altura e apoio lombar.,Casa e Decoração,Escritório,Alpha Office,Preto,62.0,120.0,58.0,13.5,499.00,S,-,-,2023-08-04 13:45:00,ativo
+39,Estante de Livros, Estante de livros com prateleiras reguláveis e design moderno.,Casa e Decoração,Escritório,Madeira,Marrom,40.0,180.0,28.0,24.5,299.90,S,-,-,2023-08-04 16:00:00,ativo
+40,Kit de Potes de Vidro 10 Peças,Kit de potes de vidro com tampas herméticas em diferentes tamanhos.,Casa e Decoração,Cozinha,Martiplast,Transparente,15.0,20.0,25.0,1.5,69.90,S,-,-,2023-08-04 18:25:00,ativo
+41,Conjunto de Copos 6 Peças,Conjunto de copos de vidro para água e sucos com 6 peças.,Casa e Decoração,Mesa e Bar,Duralex,Cristal,7.5,15.5,7.5,0.2,29.90,S,-,-,2023-08-04 20:40:00,ativo
+42,Relógio de Parede Decorativo,Relógio de parede com design moderno e silencioso.,Casa e Decoração,Relógios,Herweg,Preto,35.0,35.0,3.0,0.65,79.90,S,-,-,2023-08-04 22:55:00,ativo
+43,Tapete Shaggy Felpudo,Tapete shaggy felpudo de poliéster para sala ou quarto.,Casa e Decoração,Tapetes,Sao Carlos,Cinza,160.0,230.0,5.0,6.0,499.00,S,-,-,2023-08-05 09:20:00,ativo
+44,Conjunto de Toalhas de Mesa 4 Peças,Conjunto de toalhas de mesa estampadas em diferentes tamanhos.,Casa e Decoração,Mesa e Bar,Lepper,Multi,35.0,50.0,3.0,0.95,39.90,S,-,-,2023-08-05 11:35:00,ativo
+45,Kit de Churrasco 9 Peças,Kit de churrasco com facas garfos e chaira em estojo de alumínio.,Casa e Decoração,Churrasco,Tramontina,Prata,8.0,36.0,32.0,2.1,199.90,S,-,-,2023-08-05 13:50:00,ativo
+46,Ventilador de Teto,Ventilador de teto com controle remoto e pás em acrílico.,Eletrodomésticos,Climatização,Venti-Delta,Branco,120.0,34.0,120.0,5.5,299.00,S,2 anos,24,2023-08-05 16:05:00,ativo
+47,Ar Condicionado Split 12.000 BTUs,Ar condicionado split com função quente/frio.,Eletrodomésticos,Climatização,Consul,Branco,82.0,29.5,18.5,7.2,1599.00,S,1 ano,12,2023-08-05 18:30:00,ativo
+48,Geladeira Frost Free Duplex,Geladeira frost free com capacidade de 380 litros.,Eletrodomésticos,Geladeiras e Refrigeradores,Brastemp,Inox,70.0,187.0,75.0,78.0,2299.00,S,2 anos,24,2023-08-05 20:45:00,ativo
+49,Lavadora de Roupas 10 kg,Lavadora de roupas com diversas opções de programas.,Eletrodomésticos,Lavanderia,Electrolux,Branco,66.5,100.0,71.0,45.0,1199.00,S,1 ano,12,2023-08-05 23:00:00,ativo
+50,Forno Elétrico de Embutir,Forno elétrico de embutir com capacidade de 44 litros.,Eletrodomésticos,Fornos e Fogões,Brastemp,Inox,59.5,59.5,56.8,25.2,899.00,S,1 ano,12,2023-08-06 09:15:00,ativo
+51,Smartphone iPhone 13,Smartphone com tela de retina e chip A15 Bionic.,Eletrônicos,Celulares,Apple,Azul,7.2,14.5,0.8,0.17,3899.00,S,-,-,2023-08-06 11:30:00,ativo
+52,Tablet Samsung Galaxy Tab A7,Tablet com tela de 10.4 polegadas e 64GB de armazenamento.,Eletrônicos,Tablets,Samsung,Cinza,24.8,15.7,0.7,0.48,1399.00,S,-,-,2023-08-06 13:45:00,ativo
+53,Notebook Acer Aspire 5,Notebook com processador Intel Core i7 e placa de vídeo dedicada.,Informática,Notebooks,Acer,Azul,36.3,23.5,1.7,1.65,4199.00,S,1 ano,12,2023-08-06 16:00:00,ativo
+54,Fone de Ouvido com Cancelamento de Ruído,Fone de ouvido Bluetooth com cancelamento de ruído ativo.,Eletrônicos,Áudio,Sony,Preto,8.2,17.9,17.9,0.25,799.90,S,-,-,2023-08-06 18:25:00,ativo
+55,Monitor Gamer Curvo LED 27,Monitor gamer curvo com taxa de atualização de 144Hz.,Informática,Monitores,AOC,Preto,61.2,52.4,26.9,5.9,1899.00,S,2 anos,24,2023-08-06 20:40:00,ativo
+56,Teclado Mecânico Gaming,Teclado mecânico para jogos com iluminação RGB.,Informática,Acessórios,Redragon,Preto,44.5,12.6,3.6,1.0,279.00,S,-,-,2023-08-06 22:55:00,ativo
+57,Mouse Gamer com Fio,Mouse gamer com sensor óptico e ajuste de DPI.,Informática,Acessórios,HyperX,Preto,6.7,12.8,4.1,0.1,129.90,S,-,-,2023-08-07 09:20:00,ativo
+58,Impressora a Laser Mono,Impressora a laser monocromática com conectividade USB.,Informática,Impressoras,Brother,Preto,37.0,19.0,35.6,6.8,599.00,S,1 ano,12,2023-08-07 11:35:00,ativo
+59,Smart TV LED 65,Smart TV com resolução 4K e sistema operacional Android.,Eletrônicos,TVs,Philips,Prata,145.8,83.8,8.4,16.4,3399.00,S,2 anos,24,2023-08-07 13:50:00,ativo
+60,Soundbar com Subwoofer,Soundbar com subwoofer para melhor experiência sonora.,Eletrônicos,Áudio, LG,Preto,91.0,6.4,8.8,1.75,499.90,S,-,-,2023-08-07 16:05:00,ativo
+61,Refrigerador Side by Side,Refrigerador side by side com capacidade de 512 litros.,Eletrodomésticos,Geladeiras e Refrigeradores,LG,Inox,91.2,179.0,73.8,159.0,7099.00,S,2 anos,24,2023-08-07 18:30:00,ativo
+62,Lavadora e Secadora de Roupas 11 kg,Lavadora e secadora de roupas com capacidade de 11 kg.,Eletrodomésticos,Lavanderia,Samsung,Branco,60.0,85.0,65.0,5.0,2299.00,S,1 ano,12,2023-08-07 20:45:00,ativo
+63,Fogão de Embutir 5 Bocas,Fogão de embutir com 5 bocas e forno com grill elétrico.,Eletrodomésticos,Fornos e Fogões,Electrolux,Inox,76.0,69.0,55.0,29.0,3299.00,S,2 anos,24,2023-08-07 23:00:00,ativo
+64,Ferro de Passar Roupa a Vapor,Ferro de passar roupa a vapor com base de cerâmica.,Eletrodomésticos,Lavanderia,Philips,Wine,14.5,28.0,12.5,1.0,89.90,S,-,-,2023-08-08 09:15:00,ativo
+65,Secadora de Roupas a Gás,Secadora de roupas a gás com capacidade de 10 kg.,Eletrodomésticos,Lavanderia,Brastemp,Branco,59.5,84.0,68.6,29.5,1499.00,S,1 ano,12,2023-08-08 11:30:00,ativo
+66,Conjunto de Panelas de Cerâmica,Conjunto de panelas de cerâmica antiaderente com 5 peças.,Casa e Decoração,Cozinha,Brinox,Cinza,38.0,39.0,24.0,5.0,299.00,S,-,-,2023-08-08 13:45:00,ativo
+67,Escorredor de Louças,Escorredor de louças de aço inoxidável com bandeja coletora.,Casa e Decoração,Cozinha,Future,Prata,44.5,27.0,16.0,1.8,59.90,S,-,-,2023-08-08 16:00:00,ativo
+68,Lixeira Automática com Sensor,Lixeira automática com sensor de movimento e capacidade de 12 litros.,Casa e Decoração,Cozinha,Simplehuman,Prata,26.0,44.0,30.5,2.9,249.90,S,-,-,2023-08-08 18:25:00,ativo
+69,Conjunto de Facas 6 Peças,Conjunto de facas em aço inoxidável com suporte em acrílico.,Casa e Decoração,Corte e Preparo,Tramontina,Prata,14.0,33.0,9.0,2.2,99.90,S,-,-,2023-08-08 20:40:00,ativo
+70,Conjunto de Taças de Vinho 6 Peças,Conjunto de taças de vinho em cristal com capacidade de 250 ml.,Casa e Decoração,Mesa e Bar,Bohemia,Cristal,8.0,20.5,8.0,0.45,89.90,S,-,-,2023-08-08 22:55:00,ativo
+71,Jogo de Cama Casal 4 Peças,Jogo de cama casal com lençol de elástico e fronhas.,Casa e Decoração,Cama e Enxoval,Santista,Verde,35.0,48.0,4.0,2.0,79.90,S,-,-,2023-08-09 09:20:00,ativo
+72,Edredom Queen,Edredom queen size em tecido macio e quente.,Casa e Decoração,Cama e Enxoval,MMartan,Branco,240.0,220.0,2.0,3.2,299.90,S,-,-,2023-08-09 11:35:00,ativo
+73,Toalha de Banho Gigante,Toalha de banho gigante em algodão felpudo.,Casa e Decoração,Banheiro,Santista,Azul,86.0,150.0,0.5,1.15,39.90,S,-,-,2023-08-09 13:50:00,ativo
+74,Conjunto de Malas de Viagem 3 Peças,Conjunto de malas de viagem em ABS com rodinhas e puxador retrátil.,Casa e Decoração,Viagem e Lazer,Travelux,Prata,51.0,80.0,29.0,11.5,399.00,S,-,-,2023-08-09 16:05:00,ativo
+75,Bicicleta Elétrica,Bicicleta elétrica com motor de 250W e autonomia de 40 km.,Esportes e Lazer,Ciclismo,GreenBike,Preto,65.0,110.0,20.0,22.5,1899.00,S,1 ano,12,2023-08-09 18:30:00,ativo
+76,Skate Elétrico,Skate elétrico com controle remoto e velocidade máxima de 25 km/h.,Esportes e Lazer,Skates e Patins,Mobo,Preto,23.0,10.0,80.0,6.0,999.00,S,1 ano,12,2023-08-09 20:45:00,ativo
+77,Monitor Dell 27,Monitor LED de 27 polegadas com resolução Full HD e conexões HDMI e VGA,Informática,Monitores,Dell,Preto,61.2,36.4,5.3,5.5,799.99,S,Serviço de Garantia de Fábrica,12,2023-08-01 20:30:00,Disponível
+78,Impressora Epson EcoTank L3150,Impressora multifuncional a jato de tinta com tanque de tinta recarregável,Informática,Impressoras,Epson,Preto,37.5,17.9,34.7,4.5,499.99,S,Serviço de Garantia de Fábrica,12,2023-08-01 21:45:00,Disponível
+79,Teclado Mecânico Corsair K70,Teclado mecânico com switches Cherry MX e retroiluminação RGB,Informática,Periféricos,Corsair,Preto,43.2,16.8,3.8,1.25,349.99,S,Serviço de Garantia de Fábrica,24,2023-08-01 23:00:00,Disponível
+80,Mouse Logitech G Pro,Mouse gamer com sensor HERO 25K e até 16000 DPI,Informática,Periféricos,Logitech,Preto,63.5,125.0,40.0,0.08,199.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 08:00:00,Disponível
+81,Placa de Vídeo NVIDIA RTX 3080,Placa de vídeo com 10GB GDDR6X e suporte para Ray Tracing,Informática,Componentes,NVIDIA,Cinza,28.5,11.2,4.4,1.34,2399.99,S,Serviço de Garantia de Fábrica,24,2023-08-02 09:15:00,Disponível
+82,Headset HyperX Cloud Alpha,Headset gamer com som surround 7.1 e drivers de 50mm,Eletrônicos,Áudio e Vídeo,HyperX,Preto,24.0,22.8,11.0,0.3,299.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 10:30:00,Disponível
+83,Console PlayStation 5,Console de videogame com armazenamento SSD de 825GB e suporte para 4K,Eletrônicos,Videogames,Sony,Preto,39.0,26.0,10.4,4.5,2999.99,S,Serviço de Garantia de Fábrica,24,2023-08-02 11:45:00,Disponível
+84,Xbox Series X,Console de videogame com armazenamento SSD de 1TB e suporte para 4K,Eletrônicos,Videogames,Microsoft,Preto,30.1,15.1,15.1,4.4,2499.99,S,Serviço de Garantia de Fábrica,24,2023-08-02 13:00:00,Disponível
+85,Drone DJI Mavic Air 2,Drone com câmera de 48MP e autonomia de voo de até 34 minutos,Eletrônicos,Drones,DJI,Cinza,18.0,9.7,8.4,0.57,1499.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 14:15:00,Disponível
+86,Caixa de Som Bluetooth JBL Charge 5,Caixa de som portátil com bateria de até 20 horas de reprodução,Eletrônicos,Áudio e Vídeo,JBL,Azul,22.3,8.7,8.7,0.96,349.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 15:30:00,Disponível
+87,Relógio Smartwatch Apple Watch Series 7,Smartwatch com tela Retina sempre ligada e resistente à água,Eletrônicos,Wearables,Apple,Preto,41.5,45.0,10.7,0.05,699.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 16:45:00,Disponível
+88,Câmera GoPro HERO10 Black,Câmera de ação com vídeo 5.3K e foto de 23MP à prova d'água,Eletrônicos,Fotografia,GoPro,Preto,55.0,32.0,44.5,0.12,499.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 18:00:00,Disponível
+89,Monitor Gamer ASUS ROG Swift PG279Q,Monitor gamer IPS de 27 polegadas com taxa de atualização de 165Hz,Informática,Monitores,ASUS,Preto,61.9,35.2,18.6,6.3,1799.99,S,Serviço de Garantia de Fábrica,24,2023-08-02 19:15:00,Disponível
+90,Cadeira Gamer DXRacer Formula,Confortável cadeira gamer com ajustes de altura e inclinação,Eletrônicos,Acessórios para Games,DXRacer,Azul,64.0,128.0,68.0,24.0,1299.99,S,Serviço de Garantia de Fábrica,24,2023-08-02 20:30:00,Disponível
+91,SSD Kingston A2000,Unidade de estado sólido NVMe M.2 com capacidade de 1TB,Informática,Componentes,Kingston,Prata,22.0,3.5,80.0,0.04,159.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 21:45:00,Disponível
+92,Multifuncional HP DeskJet 4126,Impressora jato de tinta colorida com scanner e copiadora,Informática,Impressoras,HP,Branco,42.5,16.0,47.5,5.3,299.99,S,Serviço de Garantia de Fábrica,12,2023-08-02 23:00:00,Disponível
+93,Mousepad Corsair MM300,Mousepad gamer com superfície de pano de alta precisão,Informática,Periféricos,Corsair,Preto,93.0,30.0,0.3,0.25,29.99,S,Serviço de Garantia de Fábrica,12,2023-08-03 08:00:00,Disponível
+94,Fone de Ouvido Bluetooth JBL T110BT,Fone de ouvido sem fio com até 6 horas de reprodução contínua,Eletrônicos,Áudio e Vídeo,JBL,Preta,23.6,13.4,2.4,0.018,99.99,S,Serviço de Garantia de Fábrica,12,2023-08-03 09:15:00,Disponível
+95,Monitor Curvo Samsung Odyssey G5,Monitor gamer curvo de 27 polegadas com taxa de atualização de 144Hz,Informática,Monitores,Samsung,Preto,61.4,50.3,27.1,6.8,899.99,S,Serviço de Garantia de Fábrica,12,2023-08-03 10:30:00,Disponível
+96,Teclado Mecânico HyperX Alloy FPS Pro,Teclado mecânico compacto com switches Cherry MX e iluminação vermelha,Informática,Periféricos,HyperX,Preto,35.9,13.8,3.7,0.9,199.99,S,Serviço de Garantia de Fábrica,24,2023-08-03 11:45:00,Disponível
+97,Placa de Vídeo AMD Radeon RX 6700 XT,Placa de vídeo com 12GB GDDR6 e suporte para Ray Tracing,Informática,Componentes,AMD,Cinza,27.7,13.0,5.5,1.01,1499.99,S,Serviço de Garantia de Fábrica,24,2023-08-03 13:00:00,Disponível
+98,Headset Razer Kraken X,Headset gamer com som surround 7.1 e microfone retrátil,Eletrônicos,Áudio e Vídeo,Razer,Preto,21.0,19.0,8.9,0.25,169.99,S,Serviço de Garantia de Fábrica,12,2023-08-03 14:15:00,Disponível
+99,Console Nintendo Switch Lite,Console de videogame portátil com tela de 5.5 polegadas,Eletrônicos,Videogames,Nintendo,Azul,20.8,9.1,1.4,0.275,299.99,S,Serviço de Garantia de Fábrica,12,2023-08-03 15:30:00,Disponível
+100,Câmera Mirrorless Sony Alpha a6400,Câmera digital com sensor APS-C de 24.2MP e gravação em 4K,Eletrônicos,Fotografia,Sony,Preto,32.1,19.8,12.0,0.4,1199.99,S,Serviço de Garantia de Fábrica,24,2023-08-03 16:45:00,Disponível

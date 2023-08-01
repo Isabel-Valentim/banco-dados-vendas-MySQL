@@ -1,0 +1,31 @@
+id_lojas,cnpj,nome,pais,cidade,cep,bairro,endereco,numero,data_cadastro
+1,12345678901234,Outlet Fashion,Brasil,São Paulo,0123456,Jardins,Rua Oscar Freire,1001,2023-07-30 08:00:00
+2,98765432109876,ElectroMax,Brasil,Rio de Janeiro,6543210,Ipanema,Avenida Vieira Souto,567,2023-07-30 09:15:00
+3,54321678904321,HomeStyle,Brasil,Belo Horizonte,9876543,Savassi,Avenida Getúlio Vargas,890,2023-07-30 10:30:00
+4,67890543201098,TechZone,Brasil,Porto Alegre,1098765,Moinhos de Vento,Rua Padre Chagas,432,2023-07-30 11:45:00
+5,21098765403987,SportFit,Brasil,Salvador,8765432,Itaigara,Rua das Hortênsias,987,2023-07-30 13:00:00
+6,67543210908432,Bookworm,Brasil,Recife,5432109,Boa Viagem,Avenida Boa Viagem,654,2023-07-30 14:15:00
+7,98760543201234,CosmoTech,Brasil,Fortaleza,4321098,Aldeota,Avenida Beira Mar,321,2023-07-30 15:30:00
+8,32109876504321,LumiDeco,Brasil,Brasília,3210987,Asa Sul,Quadra 301,Bloco C,2023-07-30 16:45:00
+9,67890543009876,SmartBuy,Brasil,Manaus,6543210,Dom Pedro,Rua Recife,876,2023-07-30 18:00:00
+10,21098760504321,GreenLife,Brasil,Belém,1098765,Nazaré,Travessa Dom Romualdo de Seixas,543,2023-07-30 19:15:00
+11,54321678098765,FashionBlend,Brasil,Goiania,8765432,Setor Bueno,Rua T-37,123,2023-07-30 20:30:00
+12,67890123405678,HomeGuru,Brasil,Curitiba,2109876,Batel,Avenida do Batel,321,2023-07-30 21:45:00
+13,98760543102109,FoodNest,Brasil,Florianópolis,5432109,Trindade,Rua Lauro Linhares,567,2023-07-30 23:00:00
+14,54321678901098,SweetSpot,Brasil,Porto Alegre,8765432,Moinhos de Vento,Rua Padre Chagas,987,2023-07-31 08:00:00
+15,10987654304321,HomeParadise,Brasil,Campinas,3210987,Cambuí,Rua General Osório,210,2023-07-31 09:15:00
+16,21098760504321,ChefHub,Brasil,Sorocaba,1098765,Centro,Avenida Barão de Tatuí,88,2023-07-31 10:30:00
+17,54321678098765,SportZone,Brasil,Joinville,8765432,America,Rua das Palmeiras,432,2023-07-31 11:45:00
+18,76543210904321,FitnessNow,Brasil,Blumenau,5432109,Vila Nova,Rua 15 de Novembro,543,2023-07-31 13:00:00
+19,21098765403210,SmartHome,Brasil,Florianópolis,3210987,Trindade,Rua Desembargador Vitor Lima,876,2023-07-31 14:15:00
+20,76543210908765,GreenZone,Brasil,Goiânia,2109876,Setor Bueno,Avenida T-4,1098,2023-07-31 15:30:00
+21,54321678010987,FoodCraft,Brasil,Cuiabá,5432109,Centro,Avenida Getúlio Vargas,987,2023-07-31 16:45:00
+22,76543210108765,Fashionista,Brasil,Porto Velho,8765432,Centro,Avenida Sete de Setembro,210,2023-07-31 18:00:00
+23,54321678098765,BookWorm,Brasil,Palmas,7654321,Centro,Avenida JK,765,2023-07-31 19:15:00
+24,54321098706543,RelaxScape,Brasil,Vitória,1098765,Enseada do Suá,Avenida Desembargador Dermeval Lyrio,543,2023-07-31 20:30:00
+25,98765432101098,ElectroPlanet,Brasil,Natal,6543210,Candelária,Rua Mossoró,210,2023-07-31 21:45:00
+26,10987654302109,StyleTrends,Brasil,João Pessoa,7654321,Manaíra,Avenida Epitácio Pessoa,987,2023-07-31 23:00:00
+27,54321098706543,FoodHaven,Brasil,Aracaju,3210987,Centro,Rua São Cristóvão,1098,2023-08-01 08:00:00
+28,21098765403210,EcoLiving,Brasil,Boa Vista,1098765,Centro,Avenida Ville Roy,543,2023-08-01 09:15:00
+29,54321098706543,FoodBliss,Brasil,Porto Seguro,6543210,Centro,Rua do Mangue,876,2023-08-01 10:30:00
+30,54321678010987,TechNest,Brasil,Praia do Forte,3210987,Rua do Forte,Rua do Sol,55,2023-08-01 11:45:00
