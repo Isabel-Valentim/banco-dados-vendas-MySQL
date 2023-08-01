@@ -2,6 +2,7 @@ DROP DATABASE IF EXISTS VENDAS;
 CREATE DATABASE VENDAS; 
 USE VENDAS; 
 
+DROP TABLE IF EXISTS PRODUTOS; 
 CREATE TABLE IF NOT EXISTS `vendas`.`produtos` (
   `id_produtos` INT NOT NULL AUTO_INCREMENT,
   `nome` VARCHAR(45) NOT NULL,
@@ -17,14 +18,17 @@ CREATE TABLE IF NOT EXISTS `vendas`.`produtos` (
   `preco` FLOAT NOT NULL,
   `tem_garantia` CHAR(1) NOT NULL,
   `tipo_garantia` VARCHAR(45) NULL,
-  `meses_garantia` INT NULL,
+  `meses_garantia` VARCHAR(45) NULL,
   `data_cadastro` DATETIME NOT NULL,
   `status` VARCHAR(45),
   PRIMARY KEY (`id_produtos`),
   UNIQUE INDEX `id_produtos_UNIQUE` (`id_produtos` ASC) INVISIBLE,
   INDEX `nome_idx` (`nome` ASC) INVISIBLE)
-ENGINE = InnoDB;
+CHARSET=latin1 
+ENGINE = InnoDB
+;
 
+DROP TABLE IF EXISTS LOJAS; 
 CREATE TABLE IF NOT EXISTS `vendas`.`lojas` (
   `id_lojas` INT NOT NULL AUTO_INCREMENT,
   `cnpj` CHAR(14) NOT NULL,
@@ -40,8 +44,10 @@ CREATE TABLE IF NOT EXISTS `vendas`.`lojas` (
   UNIQUE INDEX `id_lojas_UNIQUE` (`id_lojas` ASC) INVISIBLE,
   INDEX `cnpj_idx` (`cnpj` ASC) INVISIBLE,
   INDEX `nome_idx` (`nome` ASC) VISIBLE)
+CHARSET=latin1
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS USUARIOS;
 CREATE TABLE IF NOT EXISTS `vendas`.`usuarios` (
   `id_usuarios` INT NOT NULL AUTO_INCREMENT,
   `cpf` CHAR(11) NOT NULL,
@@ -64,8 +70,10 @@ CREATE TABLE IF NOT EXISTS `vendas`.`usuarios` (
   UNIQUE INDEX `idusuarios_UNIQUE` (`id_usuarios` ASC) VISIBLE,
   INDEX `cpf_idx` (`cpf` ASC) INVISIBLE,
   INDEX `nome_idx` (`nome` ASC) VISIBLE)
+CHARSET=latin1
 ENGINE = InnoDB;
 
+DROP TABLE IF EXISTS COMPRAS;
 CREATE TABLE IF NOT EXISTS `vendas`.`compras` (
   `id_compras` INT NOT NULL AUTO_INCREMENT,
   `id_usuarios` INT NOT NULL,
@@ -82,8 +90,8 @@ CREATE TABLE IF NOT EXISTS `vendas`.`compras` (
   `parcelas` INT NOT NULL,
   `status` VARCHAR(45) NOT NULL,
   `tipo_entrega` VARCHAR(45) NOT NULL,
-  `data_envio` DATETIME NULL,
-  `data_entrega` DATETIME NOT NULL,
+  `data_envio` VARCHAR(20) NULL,
+  `data_entrega` VARCHAR(20) NULL,
   PRIMARY KEY (`id_compras`),
   INDEX `id_usuarios_idx` (`id_usuarios` ASC) VISIBLE,
   UNIQUE INDEX `id_compras_UNIQUE` (`id_compras` ASC) INVISIBLE,
@@ -98,4 +106,5 @@ CREATE TABLE IF NOT EXISTS `vendas`.`compras` (
   CONSTRAINT `id_produtos`
     FOREIGN KEY (`id_produtos`)
     REFERENCES `vendas`.`produtos` (`id_produtos`))
+CHARSET=latin1
 ENGINE = InnoDB;
